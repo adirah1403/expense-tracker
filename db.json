@@ -1,0 +1,32 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "amount": "1000",
+      "date": "2025-04-14",
+      "category": "Food",
+      "description": "Lunch"
+    },
+    {
+      "id": "9747",
+      "amount": "100",
+      "category": "Food",
+      "description": "ABCD",
+      "date": "2025-04-14"
+    },
+    {
+      "id": "150c",
+      "amount": "100",
+      "category": "Food",
+      "description": "ABCD",
+      "date": "2025-04-15"
+    },
+    {
+      "id": "241d",
+      "amount": "500",
+      "category": "Transportation",
+      "description": "Bus",
+      "date": "2025-04-14"
+    }
+  ]
+}

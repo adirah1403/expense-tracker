@@ -1,7 +1,7 @@
 {
   "expenses": [
     {
-      "id": 1,
+      "id": "1",
       "amount": "1000",
       "date": "2025-04-14",
       "category": "Food",
@@ -27,6 +27,13 @@
       "category": "Transportation",
       "description": "Bus",
       "date": "2025-04-14"
+    },
+    {
+      "id": "deca",
+      "amount": "100",
+      "category": "Entertainment",
+      "description": "Movie",
+      "date": "2025-04-16"
     }
   ]
 }

@@ -27,7 +27,11 @@ const Chart = ({ expenses = [] }) => {
     ],
   };
 
-  return <Bar data={data} />;
+  return (
+    <div className="chart-container">
+      <Bar data={data} />
+    </div>
+  );
 };
 
 export default Chart;

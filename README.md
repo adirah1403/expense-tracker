@@ -7,7 +7,7 @@ A simple React-based Expense Tracker web app that lets users add, view, filter, 
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/adirah1403/expense-tracker-improved.git
 cd expense-tracker
 ```
 
